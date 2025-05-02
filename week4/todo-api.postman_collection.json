@@ -1,0 +1,75 @@
+{
+	"info": {
+		"_postman_id": "5ae28e58-dda8-4455-b7e7-6d3a453daaed",
+		"name": "todo-api",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "43373108",
+		"_collection_link": "https://blue-eclipse-314664.postman.co/workspace/Team-Workspace~f22fdef1-db96-48bd-8c84-78e743af83c8/collection/43373108-5ae28e58-dda8-4455-b7e7-6d3a453daaed?action=share&source=collection_link&creator=43373108"
+	},
+	"item": [
+		{
+			"name": "/todos",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "/todos/1",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "/todos?completed=true",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "/todos/search?q=API",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "/todos",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "/todos/1",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "/todos/2",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "/todos/3",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		}
+	]
+}
