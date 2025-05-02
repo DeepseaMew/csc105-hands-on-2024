@@ -1,0 +1,24 @@
+.item {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 10px;
+    margin-top: 10px;
+    background: #f0f9f0;
+    border-radius: 5px;
+  }
+
+button {
+    padding: 10px 20px;
+    border-radius: 5px;
+}
+  
+button.edit {
+    background-color: #b5660c;
+    color: white;
+}
+  
+button.remove {
+    background-color: #aa1b11;
+    color: white;
+}
